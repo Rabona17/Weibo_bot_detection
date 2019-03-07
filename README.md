@@ -4,7 +4,7 @@
 * Programming Language: Python/Ipython notebook
 * Statistics: A/B test(permutation test)
 * Data Science: Webscrapping, Data visualization, and text-mining.
-* Library used: datascience, BeautifulSoup, Numpy, Matplotlib, Jieba, Json, etc.
+* Library used: datascience(a package like Pandas), BeautifulSoup, Numpy, Matplotlib, Jieba, Json, etc.
 ## Conclusion:
 * Cai's Weibo posts indeed receive abnormally high amount reposts, and after analyzing the accounts that repost his posts, we found those accounts behaves highlly like bots.
 ## Professor/TAs thought on this project
