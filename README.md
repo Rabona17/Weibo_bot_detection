@@ -9,3 +9,5 @@
 * Cai's Weibo posts indeed receive abnormally high amount reposts, and after analyzing the accounts that repost his posts, we found those accounts behaves highlly like bots.
 ## Professor/TAs thought on this project
 * This project helps me get an A for my COGS9: Intro to Data Science class at UCSD
+## Cannot view on github?
+Go to the [nbviewer](https://nbviewer.jupyter.org/github/Rabona17/Celebrity-retweet-investigation/blob/master/Rab0na.ipynb) for better rendering!
