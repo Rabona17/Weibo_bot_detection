@@ -1,4 +1,4 @@
-# Celebrity-retweet-investigation
+# Weibo_bot_detection
 * In this project I am testing whether the posts of a famous Chinese celebrity 'Cai' on his social media [Weibo](https://en.wikipedia.org/wiki/Sina_Weibo) receive abnormally high amount of retweets and investigate the reason behind it.
 ## Skills involved:
 * Programming Language: Python/Ipython notebook
